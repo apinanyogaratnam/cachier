@@ -1,0 +1,3 @@
+[submodule "cachier-service"]
+	path = cachier-service
+	url = git@github.com:apinanyogaratnam/cachier-service
