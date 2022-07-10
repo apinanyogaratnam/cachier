@@ -2,6 +2,11 @@
 
 A caching service for your web server applications.
 
+## Supported languages
+[Python](https://pypi.org/project/cachier-python/)
+[JavaScript](https://www.npmjs.com/package/cachier-js)
+<!-- [Ruby](https://rubygems.org/gems/cachier) -->
+
 <!-- ## Table of Contents
 
 - [Installation](#installation)
