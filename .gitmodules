@@ -4,3 +4,6 @@
 [submodule "cachier-python"]
 	path = cachier-python
 	url = git@github.com:apinanyogaratnam/cachier-python
+[submodule "cachier-js"]
+	path = cachier-js
+	url = git@github.com:apinanyogaratnam/cachier-js
