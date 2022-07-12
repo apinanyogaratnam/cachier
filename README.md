@@ -1,6 +1,7 @@
 # Cachier
 
 A caching service for your web server applications.
+A key-value database with a built-in expiration policy.
 
 ## Supported languages
 [Python](https://pypi.org/project/cachier-python/)
