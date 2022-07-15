@@ -7,3 +7,6 @@
 [submodule "cachier-js"]
 	path = cachier-js
 	url = git@github.com:apinanyogaratnam/cachier-js
+[submodule "cachier-rust"]
+	path = cachier-rust
+	url = git@github.com:apinanyogaratnam/cachier-rust
