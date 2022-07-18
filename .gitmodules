@@ -10,3 +10,6 @@
 [submodule "cachier-rust"]
 	path = cachier-rust
 	url = git@github.com:apinanyogaratnam/cachier-rust
+[submodule "cachier-common-library"]
+	path = cachier-common-library
+	url = git@github.com:apinanyogaratnam/cachier-common-library
