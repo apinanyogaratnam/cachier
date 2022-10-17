@@ -13,3 +13,6 @@
 [submodule "cachier-common-library"]
 	path = cachier-common-library
 	url = git@github.com:apinanyogaratnam/cachier-common-library
+[submodule "cachier-client"]
+	path = cachier-client
+	url = git@github.com:apinanyogaratnam/cachier-client
