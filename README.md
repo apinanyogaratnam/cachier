@@ -3,7 +3,7 @@
 A caching service for your web server applications.
 A key-value database with a built-in expiration policy.
 
-Latest developments can be found here: [https://github.com/cachier-cache](https://github.com/orgs/cachier-cache/repositories)
+Latest developments can be found here: [cachier cache org](https://github.com/orgs/cachier-cache/repositories)
 
 ## Supported languages
 [Python](https://pypi.org/project/cachier-python/)
